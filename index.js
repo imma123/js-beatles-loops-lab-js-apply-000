@@ -19,7 +19,7 @@ function iLoveTheBeatles (num) {
   var beatles = new Array ()
   var i = 0
   do {
-     beatles[i]  = "I Love the Beatles!"
+     beatles[i]  = "I love the Beatles!"
      i++
      num++
   }
